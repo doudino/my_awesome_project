@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 def greetings():
-    print("helloo resif people")
+    print("helloo resif people 3")
 
 def repeat(x, callback):
     for _ in range(x):

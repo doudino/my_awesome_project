@@ -1,3 +1,5 @@
+#!/usr/bin/env python2
+
 def greetings():
     print("helloo resif people")
 
